@@ -1,4 +1,4 @@
-### Hi there 👋! I'm Eric, an aspiring Cyber Security Specialist. Here you will find code that I am experimenting with.
+### Hi there 👋! I'm an aspiring Cyber Security Specialist. Here you will find code that I am experimenting with.
 
 <!--
 **Azah3609/Azah3609** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
